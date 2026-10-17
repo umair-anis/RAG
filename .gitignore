@@ -1,3 +1,7 @@
 .env
 
 /myenv
+.venv/
+__pycache__/
+5_RAG_Evaluation/faiss_index_sutter/
+941156621-1811946734_sutter-medical-center-sacramento_standardcharges.txt
